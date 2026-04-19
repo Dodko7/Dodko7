@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jozefondrejicka.12@gmail.com**
 
-- ⚡ Fun fact **I have a special talent for turning caffeine into code!☕️💻**
+- ⚡ Fun fact **I have a special talent for turning caffeine into code!**
 
 <h3 align="left">📚 School Projects</h3>
 
