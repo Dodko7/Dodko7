@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dodko&label=Profile%20views&color=0e75b6&style=flat" alt="dodko" /> </p>
 
-- 🤝 I’m looking for help with **getting my first job**
+- 🤝 I'm looking for help with **getting my first job**
 
 - 📫 How to reach me **jozefondrejicka.12@gmail.com**
 
@@ -14,5 +14,5 @@
 
 <p align="left">
   All my FIT VUT Brno coursework is organized in one place:<br>
-  <a href="https://github.com/Dodko7/FIT-VUT-Projects">Dodko7/FIT-VUT-Projects</a>
+  <a href="https://github.com/Dodko7/VUT-FIT-Projects">Dodko7/VUT-FIT-Projects</a> — projects across IAL, IMS, IPK, IPP, ISA, IOS, IDS, IMP, ISS, IUS
 </p>
