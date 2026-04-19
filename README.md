@@ -11,3 +11,10 @@
 - 📫 How to reach me **jozefondrejicka.12@gmail.com**
 
 - ⚡ Fun fact **I have a special talent for turning caffeine into code!☕️💻**
+
+<h3 align="left">📚 School Projects</h3>
+
+<p align="left">
+  All my FIT VUT Brno coursework is organized in one place:<br>
+  <a href="https://github.com/Dodko7/FIT-VUT-Projects">Dodko7/FIT-VUT-Projects</a> — projects across IAL, IMS, IPK, IPP, ISA, IOS, IDS, IMP, ISS, IUS
+</p>
